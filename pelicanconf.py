@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'entri.me'
+AUTHOR = u'Entri.me'
 SITENAME = u'Entri.me, Specially designed courses for KEAM 2016 and 2017'
 SITEURL = ''
 
